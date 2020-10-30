@@ -3,7 +3,7 @@
 # Save wildlife webpage | prework project
 This is the 1st webpage where Juniors work on social issue with ProGrad Junior.
 
-## concepts involved in this project 
+## Concepts involved in this project 
 - Basic Flex properties like display, flex-direction, justify-content, align- items.
 
 ## Assets
